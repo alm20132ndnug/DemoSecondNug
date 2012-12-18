@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Prueba con Notepad");
             Console.ReadLine();
 
-AQUI LANZA UN ERROR
+// AQUI LANZA UN ERROR
 
 
         }
