@@ -12,6 +12,10 @@ namespace ConsoleApplication1
             Console.WriteLine("Hola ALM");
             Console.WriteLine("Prueba con Notepad");
             Console.ReadLine();
+
+AQUI LANZA UN ERROR
+
+
         }
     }
 }
